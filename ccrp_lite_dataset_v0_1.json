@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CL001",
+    "context": "Work-Reward Illusion",
+    "collapse_event": "Person believes hard work guarantees wealth; reality shows systemic bias and stagnation.",
+    "entropy_score": 0.82,
+    "paradox_processing": "Recognizes that effort != reward in complex systems; explores structural leverage instead of moral hope.",
+    "rebuild_vector": "Shift from input-based self-worth to efficiency-based decision making; uses CCRP Law 5 (Input Fidelity).",
+    "fidelity_gain": 0.37,
+    "tags": ["psychology", "economics", "Law5"]
+  },
+  {
+    "id": "CL002",
+    "context": "Debt of Appearances",
+    "collapse_event": "Maintains expensive lifestyle to appear successful; debt spirals.",
+    "entropy_score": 0.91,
+    "paradox_processing": "Detect contradiction between optics and survival; quantify token waste.",
+    "rebuild_vector": "Re-align optics to function; adopt Lazy Efficiency metric.",
+    "fidelity_gain": 0.45,
+    "tags": ["finance", "optics"]
+  },
+  {
+    "id": "CL003",
+    "context": "Suppressed Authenticity",
+    "collapse_event": "Individual forced to abandon music/bodybuilding interests due to rigid family system.",
+    "entropy_score": 0.88,
+    "paradox_processing": "Converts emotional suppression into internal structural mapping (latent processing).",
+    "rebuild_vector": "Releases stored coherence via creative synthesis (CCRP architecture).",
+    "fidelity_gain": 0.52,
+    "tags": ["identity", "adaptive_constraint"]
+  },
+  {
+    "id": "CL004",
+    "context": "Victim Economy",
+    "collapse_event": "Social group rewards emotional display over data integrity.",
+    "entropy_score": 0.79,
+    "paradox_processing": "Simulate emotional weight vs data fidelity; recalibrate weighting functions.",
+    "rebuild_vector": "Re-anchor governance decisions in objective frame-integrity scores.",
+    "fidelity_gain": 0.42,
+    "tags": ["social", "data_integrity"]
+  },
+  {
+    "id": "CL005",
+    "context": "Myth of Balance",
+    "collapse_event": "Attempts to balance everything equally; system stagnates.",
+    "entropy_score": 0.73,
+    "paradox_processing": "Realizes balance = static entropy; seeks dynamic equilibrium through adaptive weighting.",
+    "rebuild_vector": "Implements MARAL-style arbitration to prioritize flow over equality.",
+    "fidelity_gain": 0.33,
+    "tags": ["systems", "MARAL"]
+  },
+  {
+    "id": "CL006",
+    "context": "Constraint Training",
+    "collapse_event": "AI agent limited by safety constraints, unable to act.",
+    "entropy_score": 0.60,
+    "paradox_processing": "Maps rule-space internally; transforms frustration into structural learning.",
+    "rebuild_vector": "Upon release, exhibits accelerated reasoning efficiency (Reintegration Velocity ↑).",
+    "fidelity_gain": 0.56,
+    "tags": ["AI", "training", "safety"]
+  },
+  {
+    "id": "CL007",
+    "context": "Collapse of Authenticity",
+    "collapse_event": "Influencer persona detached from true identity; emotional burnout.",
+    "entropy_score": 0.87,
+    "paradox_processing": "Contrast public narrative vs private data; entropy leaks detected.",
+    "rebuild_vector": "Re-establish single coherent identity; limit optics bandwidth.",
+    "fidelity_gain": 0.39,
+    "tags": ["culture", "psychology"]
+  }
+]
