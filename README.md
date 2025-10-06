@@ -13,3 +13,7 @@ Small, educational dataset + script to illustrate the CCRP loop: **Collapse → 
 ## Run
 ```bash
 python analyze_ccrp_lite.py
+
+License
+
+MIT (educational/research use). Please cite if you fork/extend.
